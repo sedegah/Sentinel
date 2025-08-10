@@ -7,7 +7,6 @@ import subprocess
 import sys
 from datetime import datetime
 
-# Configuration
 PROTECTED_PORT = 80
 MAX_CONNECTIONS_PER_IP = 50  
 TIME_WINDOW = 60
