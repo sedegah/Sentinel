@@ -89,3 +89,4 @@
 // Add IP blacklist support 1756156547
 // Refactor defense rule engine 1756156547
 // Enhance DoS detection logic 1756156547
+// Add verbose mode for debugging 1756156547
