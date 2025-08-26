@@ -92,3 +92,4 @@
 // Add verbose mode for debugging 1756156547
 // Fix false-positive detection bug 1756156547
 // Optimize packet inspection 1756156547
+// Add IP blacklist support 1756217853
