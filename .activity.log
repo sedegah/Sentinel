@@ -158,3 +158,4 @@
 // Optimize packet inspection 1756909071
 // Optimize packet inspection 1756995411
 // Add verbose mode for debugging 1756995411
+// Add IP blacklist support 1756995411
