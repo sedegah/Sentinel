@@ -205,3 +205,4 @@
 // Improve logging format 1757513785
 // Add verbose mode for debugging 1757513785
 // Update README with usage 1757513785
+// Add IP blacklist support 1757600264
