@@ -273,3 +273,4 @@
 // Enhance DoS detection logic 1758377671
 // Add verbose mode for debugging 1758377671
 // Fix false-positive detection bug 1758377671
+// Add IP blacklist support 1758377671
